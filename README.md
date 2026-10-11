@@ -36,11 +36,15 @@ Estos son los ajustes a introducir en Cloudflare Pages; este repositorio no conf
 
 Para publicar una noticia, sustituir el marcador de la página de noticias por contenido aprobado con título, texto y fecha confirmada; actualizar también el resumen de Noticias en Inicio. Mantener las rutas existentes y comprobar los enlaces si se añaden páginas.
 
+## Contenido recuperado
+
+Se incorporaron síntesis del texto y las secciones recuperables del sitio anterior, conservando el CSS existente. Las fuentes se enlazan en la página de inicio: Inicio, Nosotros, Eventos, CPI y Donaciones/Membresía de www.alipe.org, y el directorio de asociaciones de covchurch.org.
+
+El liderazgo y el evento de enero de 2026 se identifican como referencias históricas. No se restauraron imágenes ni instrucciones de pago. La constitución se presenta con un resumen de sus artículos y enlace a la fuente, sin afirmar que sea su versión vigente.
+
 ## Información pendiente
 
-- Presentación oficial, misión e historia de ALIPE.
-- Noticias: títulos, contenido y fechas de publicación confirmadas.
-- Eventos: detalles, fechas, horarios, lugares e información de participación.
-- Medio de contacto oficial autorizado.
-
-No se han añadido dirigentes, datos de contacto ficticios, fechas de eventos, enlaces de donaciones ni imágenes.
+- Directiva y constitución vigentes, dirección postal actual.
+- Texto de las afirmaciones de fe, contenido descriptivo de CPI y destinos específicos de los recursos ministeriales.
+- Requisitos y cuota actuales de membresía, medios autorizados de inscripción y donación.
+- Noticias aprobadas y próximos eventos confirmados.
